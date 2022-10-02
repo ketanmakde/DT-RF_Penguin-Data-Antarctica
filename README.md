@@ -1,5 +1,9 @@
 # DT-RF_Penguin-Data-Antarctica
 
+## Goal:
+Implement the decision tree and random forest algorithm on the Penguin Dataset (Antarctica) for the classification of the penguin species found in the Antarctica region on the basis of their physical characteristics.
+
+
 ## Palmer Archipelago (Antarctica) penguin data
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
 
